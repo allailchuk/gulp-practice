@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/allailchuk/gulp-practice/issues"
   },
-  "homepage": "https://github.com/allailchuk/gulp-practice"
+  "homepage": "https://github.com/allailchuk/gulp-practice",
+  "dependencies": {
+    "browser-sync": "^2.18.11",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglifyjs": "^0.6.2"
+  }
 }
